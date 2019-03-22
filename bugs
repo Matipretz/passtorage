@@ -1,0 +1,2 @@
+    return self.tk.call('wm', 'iconbitmap', self._w, bitmap)
+_tkinter.TclError: bitmap "data\icon.ico" not defined
